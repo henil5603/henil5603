@@ -14,7 +14,7 @@ I actively seek opportunities to expand my knowledge and stay updated with indus
 ### Socials
 
 <div id="badges">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/henil-thakkar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
