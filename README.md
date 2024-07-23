@@ -1,7 +1,7 @@
 Hi! My name is Henil Thakkar. 😄
 ========================================================================================================================================
 
-🌍  I am Full Stack Developer.
+🌍  I am Machie Learning Developer.
 I actively seek opportunities to expand my knowledge and stay updated with industry best practices.
 
 <br/>
