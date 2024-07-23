@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 This is my portfolio [henilthakkar.online](henilthakkar.online)
+- 👨‍💻 This is my portfolio **https://henilthakkar.online/**
 
 - 📫 How to reach me **henilthakkar777@gmail.com**
 
