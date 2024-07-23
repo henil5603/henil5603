@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henil Thakkar</h1>
 <h3 align="center">🌍 I am Machine Learning Developer. I actively seek opportunities to expand my knowledge and stay updated with industry best practices.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently Studying Master Of Computer Application in **GLS University**
 
